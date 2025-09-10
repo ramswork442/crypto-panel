@@ -1,4 +1,4 @@
-# 🚀 Live Crypto Price Dashboard
+# Live Crypto Price Dashboard
 
 A responsive and clean cryptocurrency panel built with **React**, **TypeScript**, **Tailwind CSS**, and **Chart.js**. It displays live data for popular cryptocurrencies like Bitcoin (BTC), Ethereum (ETH), and Dogecoin (DOGE), with smooth trends and futuristic dark-themed simple styling.
 
