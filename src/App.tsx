@@ -28,12 +28,10 @@ const App = () => {
     <div className="min-h-screen bg-gradient-to-br from-black via-gray-900 to-purple-950 p-6">
       <header className="shadow-md mb-12">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
-          {/* Logo / Title */}
           <div className="text-purple-600 hover:text-purple-800 text-3xl md:text-4xl font-bold underline">
             Crypto Panel
           </div>
 
-          {/* Navigation Links - hidden on small screens */}
           <nav className="hidden md:flex space-x-6 text-gray-300">
             <a href="/" className="hover:text-purple-400 transition-colors">
               Home
@@ -43,7 +41,6 @@ const App = () => {
             </a>
           </nav>
 
-          {/* Mobile Menu Button (optional placeholder) */}
           <div className="md:hidden text-purple-400 cursor-pointer">
           <Menu height={25} width={25} />
             </div>
