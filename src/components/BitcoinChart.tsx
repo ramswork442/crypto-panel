@@ -55,9 +55,9 @@ const BitcoinChart: React.FC = () => {
           {
             label: "Bitcoin Price (USD)",
             data: dataPoints,
-            borderColor: "#800080", // Light blue for dark theme
+            borderColor: "#800080",
             backgroundColor: "rgba(96, 165, 250, 0.2)",
-            tension: 0.4, // Smooth curve
+            tension: 0.4, // for chart curvee effect 
           },
         ],
       });
